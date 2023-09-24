@@ -1,6 +1,6 @@
 function decimalToBinary(num) {
   //Write you code here
-   return decimalNumber.toString(2);
+   return num.toString(2);
 }
 
 window.decimalToBinary = decimalToBinary;
